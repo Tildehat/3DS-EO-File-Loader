@@ -1,7 +1,7 @@
 # EON-File-Loader
  Allows the loading modded files outside the HPB for Etrian Odyssey Nexus 
 
-This is for specifically the North American Version of Etrian Odyssey Nexus.
+This is for the North American and European Version of Etrian Odyssey Nexus.
 
 Place modded files in the same directory as if the HPB was unpacked. This also allows files that are otherwise not inside the HPB to be loaded.
 
